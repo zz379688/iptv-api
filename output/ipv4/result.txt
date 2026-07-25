@@ -35,7 +35,6 @@ CCTV-16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/
 凤凰资讯,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzx
 
 🎬电影频道,#genre#
-CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
@@ -63,7 +62,6 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 ☘️湖南频道,#genre#
 
 ☘️湖北频道,#genre#
-武汉新闻,http://vapi.91kds.cc/live2/hbwhtv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=hbwhtv1
 
 ☘️吉林频道,#genre#
 
@@ -73,4 +71,4 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 
 🕘️更新时间,#genre#
-2026-07-25 07:05:17,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
+2026-07-25 19:14:30,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
