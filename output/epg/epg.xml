@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260815222540 +0800">
+<tv date="20260816102953 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7215,13 +7215,22 @@
 	<programme channel="东方财经" start="20260816235500 +0800" stop="20260817000000 +0800">
 		<title lang="zh">直击引领区(81):文创篇</title>
 	</programme>
-	<programme channel="东方财经" start="20260817000000 +0800" stop="20260817013000 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="东方财经" start="20260817000000 +0800" stop="20260817003000 +0800">
+		<title lang="zh">向新出发(4)</title>
 	</programme>
-	<programme channel="东方财经" start="20260817013000 +0800" stop="20260817014500 +0800">
-		<title lang="zh">文化访谈录</title>
+	<programme channel="东方财经" start="20260817003000 +0800" stop="20260817010000 +0800">
+		<title lang="zh">向新出发(5)</title>
 	</programme>
-	<programme channel="东方财经" start="20260817014500 +0800" stop="20260817060100 +0800">
+	<programme channel="东方财经" start="20260817010000 +0800" stop="20260817013000 +0800">
+		<title lang="zh">向新出发(6)</title>
+	</programme>
+	<programme channel="东方财经" start="20260817013000 +0800" stop="20260817015000 +0800">
+		<title lang="zh">文化访谈录:爆款综艺凭什么出圈?</title>
+	</programme>
+	<programme channel="东方财经" start="20260817015000 +0800" stop="20260817015500 +0800">
+		<title lang="zh">直击引领区:数字工匠的先锋答卷</title>
+	</programme>
+	<programme channel="东方财经" start="20260817015500 +0800" stop="20260817060100 +0800">
 		<title lang="zh">祝您晚安</title>
 	</programme>
 	<programme channel="东方财经" start="20260817060100 +0800" stop="20260817065600 +0800">
@@ -7230,14 +7239,23 @@
 	<programme channel="东方财经" start="20260817065600 +0800" stop="20260817070000 +0800">
 		<title lang="zh">科创之光文明同行</title>
 	</programme>
-	<programme channel="东方财经" start="20260817070000 +0800" stop="20260817080000 +0800">
-		<title lang="zh">创赢未来</title>
+	<programme channel="东方财经" start="20260817070000 +0800" stop="20260817072500 +0800">
+		<title lang="zh">创赢未来:创无限,向未来(上)</title>
 	</programme>
-	<programme channel="东方财经" start="20260817080000 +0800" stop="20260817083000 +0800">
-		<title lang="zh">文化访谈录</title>
+	<programme channel="东方财经" start="20260817072500 +0800" stop="20260817075000 +0800">
+		<title lang="zh">创赢未来:创无限,向未来(下)</title>
+	</programme>
+	<programme channel="东方财经" start="20260817075000 +0800" stop="20260817080000 +0800">
+		<title lang="zh">直击引领区(28):未来产业篇</title>
+	</programme>
+	<programme channel="东方财经" start="20260817080000 +0800" stop="20260817081500 +0800">
+		<title lang="zh">文化访谈录(323)</title>
+	</programme>
+	<programme channel="东方财经" start="20260817081500 +0800" stop="20260817083000 +0800">
+		<title lang="zh">文化访谈录(291)</title>
 	</programme>
 	<programme channel="东方财经" start="20260817083000 +0800" stop="20260817090000 +0800">
-		<title lang="zh">创时代</title>
+		<title lang="zh">创时代(213)</title>
 	</programme>
 	<programme channel="东方财经" start="20260817090000 +0800" stop="20260817092700 +0800">
 		<title lang="zh">市场零距离</title>
@@ -7245,20 +7263,146 @@
 	<programme channel="东方财经" start="20260817092700 +0800" stop="20260817114500 +0800">
 		<title lang="zh">市场零距离</title>
 	</programme>
-	<programme channel="东方财经" start="20260817114500 +0800" stop="20260817120000 +0800">
+	<programme channel="东方财经" start="20260817114500 +0800" stop="20260817120400 +0800">
 		<title lang="zh">市场零距离</title>
 	</programme>
-	<programme channel="东方财经" start="20260817120000 +0800" stop="20260817123000 +0800">
-		<title lang="zh">直击引领区</title>
+	<programme channel="东方财经" start="20260817120400 +0800" stop="20260817120900 +0800">
+		<title lang="zh">直击引领区(73):文创篇</title>
+	</programme>
+	<programme channel="东方财经" start="20260817120900 +0800" stop="20260817121400 +0800">
+		<title lang="zh">直击引领区(74):文创篇</title>
+	</programme>
+	<programme channel="东方财经" start="20260817121400 +0800" stop="20260817121900 +0800">
+		<title lang="zh">直击引领区(75):文创篇</title>
+	</programme>
+	<programme channel="东方财经" start="20260817121900 +0800" stop="20260817123000 +0800">
+		<title lang="zh">直击引领区(76):文创篇</title>
 	</programme>
 	<programme channel="东方财经" start="20260817123000 +0800" stop="20260817124500 +0800">
 		<title lang="zh">632观察</title>
 	</programme>
-	<programme channel="东方财经" start="20260817124500 +0800" stop="20260817130000 +0800">
-		<title lang="zh">科创先行者</title>
+	<programme channel="东方财经" start="20260817124500 +0800" stop="20260817125600 +0800">
+		<title lang="zh">科创先行者(923)</title>
+	</programme>
+	<programme channel="东方财经" start="20260817125600 +0800" stop="20260817130000 +0800">
+		<title lang="zh">科创之光文明同行</title>
 	</programme>
 	<programme channel="东方财经" start="20260817130000 +0800" stop="20260817150000 +0800">
 		<title lang="zh">市场零距离</title>
+	</programme>
+	<programme channel="东方财经" start="20260817130000 +0800" stop="20260817150000 +0800">
+		<title lang="zh">市场零距离</title>
+	</programme>
+	<programme channel="东方财经" start="20260817150000 +0800" stop="20260817150500 +0800">
+		<title lang="zh">直击引领区:数字工匠的先锋答卷</title>
+	</programme>
+	<programme channel="东方财经" start="20260817150500 +0800" stop="20260817151000 +0800">
+		<title lang="zh">直击引领区:田埂上的"先锋号"</title>
+	</programme>
+	<programme channel="东方财经" start="20260817151000 +0800" stop="20260817160000 +0800">
+		<title lang="zh">中国奇妙之旅(1)</title>
+	</programme>
+	<programme channel="东方财经" start="20260817160000 +0800" stop="20260817165000 +0800">
+		<title lang="zh">中国奇妙之旅(2)</title>
+	</programme>
+	<programme channel="东方财经" start="20260817165000 +0800" stop="20260817170000 +0800">
+		<title lang="zh">直击引领区</title>
+	</programme>
+	<programme channel="东方财经" start="20260817170000 +0800" stop="20260817170400 +0800">
+		<title lang="zh">直击引领区(24):未来产业篇</title>
+	</programme>
+	<programme channel="东方财经" start="20260817170400 +0800" stop="20260817170800 +0800">
+		<title lang="zh">直击引领区(25):未来产业篇</title>
+	</programme>
+	<programme channel="东方财经" start="20260817170800 +0800" stop="20260817171200 +0800">
+		<title lang="zh">直击引领区(27):未来产业篇</title>
+	</programme>
+	<programme channel="东方财经" start="20260817171200 +0800" stop="20260817172500 +0800">
+		<title lang="zh">直击引领区(28):未来产业篇</title>
+	</programme>
+	<programme channel="东方财经" start="20260817172500 +0800" stop="20260817173000 +0800">
+		<title lang="zh">直击引领区:滩涂上的冲天第一炮</title>
+	</programme>
+	<programme channel="东方财经" start="20260817173000 +0800" stop="20260817175500 +0800">
+		<title lang="zh">创时代(214)</title>
+	</programme>
+	<programme channel="东方财经" start="20260817175500 +0800" stop="20260817180000 +0800">
+		<title lang="zh">直击引领区</title>
+	</programme>
+	<programme channel="东方财经" start="20260817180000 +0800" stop="20260817183000 +0800">
+		<title lang="zh">浦东新脸谱(522):倪慧</title>
+	</programme>
+	<programme channel="东方财经" start="20260817183000 +0800" stop="20260817190000 +0800">
+		<title lang="zh">几何书房(1496):陈诚</title>
+	</programme>
+	<programme channel="东方财经" start="20260817190000 +0800" stop="20260817191500 +0800">
+		<title lang="zh">新闻制高点(3272)</title>
+	</programme>
+	<programme channel="东方财经" start="20260817191500 +0800" stop="20260817193000 +0800">
+		<title lang="zh">632观察</title>
+	</programme>
+	<programme channel="东方财经" start="20260817193000 +0800" stop="20260817194500 +0800">
+		<title lang="zh">科创先行者</title>
+	</programme>
+	<programme channel="东方财经" start="20260817194500 +0800" stop="20260817195000 +0800">
+		<title lang="zh">直击引领区(75):文创篇</title>
+	</programme>
+	<programme channel="东方财经" start="20260817195000 +0800" stop="20260817195400 +0800">
+		<title lang="zh">直击引领区(76):文创篇</title>
+	</programme>
+	<programme channel="东方财经" start="20260817195400 +0800" stop="20260817200000 +0800">
+		<title lang="zh">直击引领区(80):文创篇</title>
+	</programme>
+	<programme channel="东方财经" start="20260817200000 +0800" stop="20260817201500 +0800">
+		<title lang="zh">文化访谈录(323)</title>
+	</programme>
+	<programme channel="东方财经" start="20260817201500 +0800" stop="20260817203000 +0800">
+		<title lang="zh">文化访谈录(291)</title>
+	</programme>
+	<programme channel="东方财经" start="20260817203000 +0800" stop="20260817210000 +0800">
+		<title lang="zh">创时代(213)</title>
+	</programme>
+	<programme channel="东方财经" start="20260817210000 +0800" stop="20260817214000 +0800">
+		<title lang="zh">财经夜行线</title>
+	</programme>
+	<programme channel="东方财经" start="20260817214000 +0800" stop="20260817220000 +0800">
+		<title lang="zh">2026下半年经济展望:黄益平</title>
+	</programme>
+	<programme channel="东方财经" start="20260817220000 +0800" stop="20260817221500 +0800">
+		<title lang="zh">新闻制高点(3272)</title>
+	</programme>
+	<programme channel="东方财经" start="20260817221500 +0800" stop="20260817223000 +0800">
+		<title lang="zh">632观察</title>
+	</programme>
+	<programme channel="东方财经" start="20260817223000 +0800" stop="20260817224100 +0800">
+		<title lang="zh">科创先行者</title>
+	</programme>
+	<programme channel="东方财经" start="20260817224100 +0800" stop="20260817224500 +0800">
+		<title lang="zh">直击引领区</title>
+	</programme>
+	<programme channel="东方财经" start="20260817224500 +0800" stop="20260817230000 +0800">
+		<title lang="zh">文化访谈录(269)</title>
+	</programme>
+	<programme channel="东方财经" start="20260817230000 +0800" stop="20260817230400 +0800">
+		<title lang="zh">直击引领区(82):文创篇</title>
+	</programme>
+	<programme channel="东方财经" start="20260817230400 +0800" stop="20260817230900 +0800">
+		<title lang="zh">直击引领区(78):文创篇</title>
+	</programme>
+	<programme channel="东方财经" start="20260817230900 +0800" stop="20260817231300 +0800">
+		<title lang="zh">直击引领区(79):文创篇</title>
+	</programme>
+	<programme channel="东方财经" start="20260817231300 +0800" stop="20260817231700 +0800">
+		<title lang="zh">直击引领区(80):文创篇</title>
+	</programme>
+	<programme channel="东方财经" start="20260817231700 +0800" stop="20260817232100 +0800">
+		<title lang="zh">直击引领区(81):文创篇</title>
+	</programme>
+	<programme channel="东方财经" start="20260817232100 +0800" stop="20260817233000 +0800">
+		<title lang="zh">直击引领区</title>
+	</programme>
+	<programme channel="东方财经" start="20260817233000 +0800" stop="20260818000000 +0800">
+		<title lang="zh">浦东新脸谱(522):倪慧</title>
 	</programme>
 	<channel id="海南卫视">
 		<display-name lang="zh">海南卫视</display-name>
@@ -7647,31 +7791,31 @@
 	<programme channel="海南卫视" start="20260815233000 +0800" stop="20260816000500 +0800">
 		<title lang="zh">乡村振兴电视夜校</title>
 	</programme>
-	<programme channel="海南卫视" start="20260816000500 +0800" stop="20260816003500 +0800">
+	<programme channel="海南卫视" start="20260816000700 +0800" stop="20260816003800 +0800">
 		<title lang="zh">卫视高尔夫</title>
 	</programme>
-	<programme channel="海南卫视" start="20260816003500 +0800" stop="20260816010000 +0800">
+	<programme channel="海南卫视" start="20260816003800 +0800" stop="20260816010300 +0800">
 		<title lang="zh">步步为营</title>
 	</programme>
-	<programme channel="海南卫视" start="20260816010000 +0800" stop="20260816023000 +0800">
+	<programme channel="海南卫视" start="20260816010300 +0800" stop="20260816023300 +0800">
 		<title lang="zh">凌晨剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20260816023000 +0800" stop="20260816032000 +0800">
+	<programme channel="海南卫视" start="20260816023300 +0800" stop="20260816032300 +0800">
 		<title lang="zh">纪录中国</title>
 	</programme>
-	<programme channel="海南卫视" start="20260816032000 +0800" stop="20260816035000 +0800">
+	<programme channel="海南卫视" start="20260816032300 +0800" stop="20260816035200 +0800">
 		<title lang="zh">卫视高尔夫</title>
 	</programme>
-	<programme channel="海南卫视" start="20260816035000 +0800" stop="20260816042000 +0800">
+	<programme channel="海南卫视" start="20260816035200 +0800" stop="20260816042000 +0800">
 		<title lang="zh">视界</title>
 	</programme>
-	<programme channel="海南卫视" start="20260816042000 +0800" stop="20260816045600 +0800">
+	<programme channel="海南卫视" start="20260816042000 +0800" stop="20260816045900 +0800">
 		<title lang="zh">动漫剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20260816045600 +0800" stop="20260816062500 +0800">
+	<programme channel="海南卫视" start="20260816045900 +0800" stop="20260816062800 +0800">
 		<title lang="zh">凌晨剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20260816062500 +0800" stop="20260816070000 +0800">
+	<programme channel="海南卫视" start="20260816062800 +0800" stop="20260816070000 +0800">
 		<title lang="zh">潮起海之南</title>
 	</programme>
 	<programme channel="海南卫视" start="20260816070000 +0800" stop="20260816070100 +0800">
@@ -7745,6 +7889,42 @@
 	</programme>
 	<programme channel="海南卫视" start="20260817073300 +0800" stop="20260817180800 +0800">
 		<title lang="zh">阳光剧场</title>
+	</programme>
+	<programme channel="海南卫视" start="20260817073300 +0800" stop="20260817180800 +0800">
+		<title lang="zh">阳光剧场</title>
+	</programme>
+	<programme channel="海南卫视" start="20260817180800 +0800" stop="20260817182200 +0800">
+		<title lang="zh">特别节目</title>
+	</programme>
+	<programme channel="海南卫视" start="20260817182200 +0800" stop="20260817183000 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="海南卫视" start="20260817183000 +0800" stop="20260817190000 +0800">
+		<title lang="zh">海南新闻联播</title>
+	</programme>
+	<programme channel="海南卫视" start="20260817190000 +0800" stop="20260817193000 +0800">
+		<title lang="zh">转播中央台新闻联播</title>
+	</programme>
+	<programme channel="海南卫视" start="20260817193000 +0800" stop="20260817195500 +0800">
+		<title lang="zh">潮起海之南</title>
+	</programme>
+	<programme channel="海南卫视" start="20260817195500 +0800" stop="20260817202500 +0800">
+		<title lang="zh">视界</title>
+	</programme>
+	<programme channel="海南卫视" start="20260817202500 +0800" stop="20260817211300 +0800">
+		<title lang="zh">特别节目</title>
+	</programme>
+	<programme channel="海南卫视" start="20260817211300 +0800" stop="20260817215500 +0800">
+		<title lang="zh">金椰剧场</title>
+	</programme>
+	<programme channel="海南卫视" start="20260817215500 +0800" stop="20260817222500 +0800">
+		<title lang="zh">潮起海之南</title>
+	</programme>
+	<programme channel="海南卫视" start="20260817222500 +0800" stop="20260817232000 +0800">
+		<title lang="zh">星光剧场</title>
+	</programme>
+	<programme channel="海南卫视" start="20260817232000 +0800" stop="20260818001500 +0800">
+		<title lang="zh">卫视高尔夫</title>
 	</programme>
 	<channel id="都市剧场">
 		<display-name lang="zh">都市剧场</display-name>
@@ -8691,7 +8871,7 @@
 	<programme channel="都市剧场" start="20260815213000 +0800" stop="20260815221000 +0800">
 		<title lang="zh">爱的追踪(28)</title>
 	</programme>
-	<programme channel="都市剧场" start="20260815221000 +0800" stop="20260816001500 +0800">
+	<programme channel="都市剧场" start="20260815221000 +0800" stop="20260816000000 +0800">
 		<title lang="zh">坚如磐石</title>
 	</programme>
 	<programme channel="都市剧场" start="20260816001500 +0800" stop="20260816002000 +0800">
@@ -8852,5 +9032,8 @@
 	</programme>
 	<programme channel="都市剧场" start="20260816235400 +0800" stop="20260817000000 +0800">
 		<title lang="zh">坚如磐石</title>
+	</programme>
+	<programme channel="都市剧场" start="20260817133000 +0800" stop="20260818000000 +0800">
+		<title lang="zh">暂无导播信息</title>
 	</programme>
 </tv>
