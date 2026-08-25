@@ -1,31 +1,19 @@
 📺央视频道,#genre#
 CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.232:5540
-CCTV-11,http://101.66.198.55:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
 
 📡卫视频道,#genre#
+广东卫视,http://27.39.122.2:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
-东方卫视,http://101.66.198.245:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
-东南卫视,http://101.66.198.55:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
-广西卫视,http://101.66.198.245:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
-贵州卫视,http://101.66.198.55:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
-河南卫视,http://101.66.198.55:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
-吉林卫视,http://101.66.198.179:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
-江西卫视,http://101.66.198.179:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
-四川卫视,http://101.66.198.55:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
 
 ☘️黑龙江频道,#genre#
-哈尔滨影视,https://stream.hrbtv.net/yspd/sd/live.m3u8
-哈尔滨影视,https://stream.hrbtv.net/yspd/playlist.m3u8
-哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
-哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild#http://stream.hrbtv.net/yspd/sd/live.m3u8
+哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
 哈尔滨资讯,http://stream.hrbtv.net/zxpd/sd/live.m3u8
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8
 哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8
 哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild#http://stream.hrbtv.net/ylpd/sd/live.m3u8#https://stream.hrbtv.net/ylpd/sd/live.m3u8
-哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
 七台河新闻综合,http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
 甘南县综合,rtmp://masterpull.hljtv.com/live/YbFyF4Jb
 双鸭山综合,http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
@@ -67,7 +55,6 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 ☘️湖南频道,#genre#
 
 ☘️湖北频道,#genre#
-武汉新闻,http://vapi.91kds.cc/live2/hbwhtv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=hbwhtv1
 
 ☘️吉林频道,#genre#
 
@@ -77,4 +64,4 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 
 🕘️更新时间,#genre#
-2026-08-25 06:31:11,http://36.49.50.4:8800/rtp/239.37.0.232:5540
+2026-08-25 18:37:06,http://36.49.50.4:8800/rtp/239.37.0.232:5540
